@@ -1,4 +1,4 @@
-# fluffy-rotary-phone
+# HTML Exercise
 
 Student Profile
 
